@@ -1,5 +1,5 @@
 ---
-title: Researches projects offered to all BSc, MSc and PhD students
+title: Research projects offered to all BSc, MSc and PhD students
 # subtitle: Examples of past projects 
 
 # linktitle: Book
